@@ -162,7 +162,6 @@ class LeituraRapidaApp:
             time.sleep(60 / self.velocidade_atual)
             self.palavra_atual += 1
 
-
 # Inicialização da aplicação
 if __name__ == "__main__":
     root = tk.Tk()
