@@ -3,7 +3,6 @@ from tkinter import messagebox
 import threading
 import time
 
-
 class LeituraRapidaApp:
     def __init__(self, root):
         self.root = root
